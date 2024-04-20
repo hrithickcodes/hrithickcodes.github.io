@@ -4,7 +4,7 @@ main:
     url: /files/Resume.pdf
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "https://hrithickcodes.medium.com/"
 
   # - title: "Publications"
   #   url: /publications/
