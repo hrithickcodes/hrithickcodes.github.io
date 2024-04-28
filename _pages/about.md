@@ -16,7 +16,7 @@ redirect_from:
 ## 💻 Work Experience
 
 ### 💼 OGMA IT LLC
-1. Developed 'The Credit Genius', a RAG-based chatbot designed specifically for performing Question Answering tasks sourced from the client's written material and Video Lectures. Utilized advanced techniques such as Sentence Window Retrieval and Hypothetical Questions (HyDe) within the RAG pipeline to achieve superior answer relevancy, Context Recall, and Faithfulness. Completed the prject end-to-end  by Dockerizing the application and deploying the system on AWS EC2 instance.
+1. Developed 'The Credit Genius', a RAG-based chatbot designed specifically for performing Question Answering tasks sourced from the client's written material and Video Lectures. Utilized advanced techniques such as Sentence Window Retrieval and Hypothetical Questions (HyDe) within the RAG pipeline to achieve superior answer relevancy, Context Recall, and Faithfulness. Completed the project end-to-end  by Dockerizing the application and deploying the system on AWS EC2 instance.
    
 2. Built a Multimodal DocumentAI system for extracting information from Logistic Tickets, leading to a 91% reduction in the time and cost dedicated to manually verifying trucking tickets. Initially fine-tuned pix2struct-textcaps for information extraction in version 1, but later transitioned to Claude 3-opus.
 
@@ -25,6 +25,10 @@ redirect_from:
 1. Collaborated with the team to build and deploy question-answering systems leveraging knowledge graphs (Cypher and Neo4j) and language models models (BERT, T5, DistilBERT).
 2. Built a pipeline to automatically extract structured tables from documents into a knowledge graph using Table Transformer (DETR fine-tuned to detect tables) and YOLO.
 
+
+### 💼 Kesowa [MLE Intern]
+1. Optimized and improved the performance metric of the tree detection model on large aerial images (>25GB), reducing training time and enhanced post-processing for shape file generation, enabling QGIS visualization.
+2. Programmed an automated attendance system leveraging Siamese network for face recognition/verification,specifically designed for company employees and deployed on a Jetson Nano.
 
 ## 📚 Research Paper Implementations
 
